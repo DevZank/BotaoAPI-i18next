@@ -1,0 +1,4 @@
+{
+  "OlaMundo": "Olá, Mundo!",
+  "Texto": "A tradução dessas palavras acontecem através da API i18next do React.Js"
+}
